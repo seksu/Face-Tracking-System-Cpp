@@ -1,0 +1,2 @@
+﻿  Source.cpp
+c:\users\sek su\documents\visual studio 2017\projects\project1\project1\source.cpp(3): fatal error C1083: Cannot open include file: 'opencv2/core/core.hpp': No such file or directory
